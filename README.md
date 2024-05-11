@@ -17,8 +17,6 @@ This repository serves as a comprehensive resource for individuals interested in
 
 ## Contents
 
-The repository is organized into the following sections:
-
 1. **Day Trading**: Explore strategies and techniques for day trading in various financial markets.
 
 2. **Financial Data Analysis**: Learn how to analyze and manipulate financial data using Python and Pandas.
