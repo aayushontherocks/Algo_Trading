@@ -20,7 +20,7 @@ This guide will be using Interactive Brokers(IBKR) to trade stocks and forex by 
 
 ## Additional Resources
 
-- In [API_connections.md](API_connection.md), you'll also learn how to:
+- In [API_connections.md](API_connection.ipynb), you'll also learn how to:
   - Create contracts
   - Get market data
   - Stream data for multiple tickers
