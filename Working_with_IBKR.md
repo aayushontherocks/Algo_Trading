@@ -18,8 +18,16 @@ This guide will be using Interactive Brokers(IBKR) to trade stocks and forex by 
 
 2. **Install Python and Data Science Packages**: Once Anaconda is downloaded, install Python and its data science packages. This will provide you with the necessary tools to run Python algorithms and analyze market data.
 
+## Additional Resources
+
+- In [API_connections.md](API_connections.md), you'll also learn how to:
+  - Create contracts
+  - Get market data
+  - Stream data for multiple tickers
+  - Create stock orders for both stock trading and CFD trading
+  - Acquire positions and account values
+  - Analyze historical bars
+
 ## Conclusion
 
 Our goal is to enable trading using python and run python algorithms to test out strategies. By following these initial steps, you'll be well on your way to trading with Interactive Brokers using Python and running algorithmic trading strategies. Stay tuned for further guides on connecting to IBKR's API and developing trading algorithms.
-
-
