@@ -28,7 +28,7 @@ This repository serves as a comprehensive resource for individuals interested in
 
 ## Getting Started
 
-To get started, simply navigate to the section of interest and explore the resources available. Feel free to clone or fork this repository to customize it for your own research or educational purposes.
+To get started, simply navigate to [Working_with_IBKR.md](Working_with_IBKR.md) and explore the resources available. Feel free to clone or fork this repository to customize it for your own research or educational purposes.
 
 ## Contributions
 
